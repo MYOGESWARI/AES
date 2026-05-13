@@ -20,7 +20,7 @@ AES operates on a 4 × 4 column-major order array of bytes, termed the state
     }
      }
     int main() {
-    char url[] = "MAGESHBOOPATHI";
+    char url[] = "YOGESWARI";
     char key[] = "secretkey";
 
     printf("Original text: %s\n", url);
@@ -34,7 +34,8 @@ AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 # OUTPUT:
 
-<img width="1915" height="817" alt="image" src="https://github.com/user-attachments/assets/dc7db1e0-d367-4f96-b9a5-95ba3bd12714" />
+<img width="1357" height="686" alt="Screenshot 2026-05-13 132048" src="https://github.com/user-attachments/assets/a2ff048b-ca6e-41d6-9160-27d763e6b806" />
+
 
 
 # RESULT:
